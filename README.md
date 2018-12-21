@@ -22,7 +22,9 @@ If you'd like to get to know me better visit my LinkedIn profile [*here*](https:
   5. Check the output in the code editor's termninal
   
   Before you start playing with the code please make sure to get acquainted with the associated readme file. It will help you understand the problem a program solves and what input it expects.
+  
   NOTE: Making the program handle arbitraty input appropriately was out of scope of FreeCodeCamp challenges, so by passing arguments of unexpected type you will get "undefined" in the console output... at best :smiling_imp:. For smooth testing experience, once again, please refer to a readme file associated with the program in question.
+  
   To test the program you can scroll down the JS file (once its opened in a text editor) and change arguments you are calling the function with.
   Good luck!
 
