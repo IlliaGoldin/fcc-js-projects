@@ -1,7 +1,7 @@
---===JavaScript Algorithms and Data Structures Projects===--
+## JavaScript Algorithms and Data Structures Projects
 
 
--=Caesars Cipher=-
+### Caesars Cipher
 
 Task:
 One of the simplest and most widely known ciphers is a Caesar cipher, also known as a shift cipher. In a shift cipher the meanings of the letters are shifted by some set amount.
@@ -13,7 +13,7 @@ Write a function which takes a ROT13 encoded string as input and returns a decod
 All letters will be uppercase. Do not transform any non-alphabetic character (i.e. spaces, punctuation), but do pass them on.
 
 
-Expected Output:
+**Expected Output:**
 * rot13("SERR PBQR PNZC") should decode to FREE CODE CAMP
 * rot13("SERR CVMMN!") should decode to FREE PIZZA!
 * rot13("SERR YBIR?") should decode to FREE LOVE?
