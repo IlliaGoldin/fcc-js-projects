@@ -6,7 +6,8 @@ If you'd like to get to know me better visit my LinkedIn profile [*here*](https:
 
 **Description**</br>
   FreeCodeCamp has five JS coding projects required for obtaining "JavaScript Algorithms and Data Structures" certification.
-  [*Js-projects-fcc*](link) contains five folders. 
+  The solutions to problems in those projects reside in js-projects-fcc repository.
+  [*Js-projects-fcc*](link) consists of five folders. 
   Each folder has two files in it:
   1. A text file that contains description of code
   2. A JS file that contains code itself
@@ -24,3 +25,11 @@ If you'd like to get to know me better visit my LinkedIn profile [*here*](https:
   NOTE: Making the program handle arbitraty input appropriately was out of scope of FreeCodeCamp challenges, so by passing arguments of unexpected type you will get "undefined" in the console output... at best :smiling_imp:. For smooth testing experience, once again, please refer to a readme file associated with the program in question.
   To test the program you can scroll down the JS file (once its opened in a text editor) and change arguments you are calling the function with.
   Good luck!
+
+**Technology used:**
+* Vanilla JS</br>
+
+**Dev Environment:**
+* VS Code
+* Node.js
+
