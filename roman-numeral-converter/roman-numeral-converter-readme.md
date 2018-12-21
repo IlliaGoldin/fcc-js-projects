@@ -1,9 +1,9 @@
---===JavaScript Algorithms and Data Structures Projects===--
+## JavaScript Algorithms and Data Structures Projects
 
+### Roman Numeral Converter
 
--=Roman Numeral Converter=-
+**Task:**
 
-Task:
 Convert the given number into a roman numeral.
 
 All roman numerals answers should be provided in upper-case.
@@ -11,7 +11,7 @@ All roman numerals answers should be provided in upper-case.
 Remember to use Read-Search-Ask if you get stuck. Try to pair program. Write your own code.
 
 
-Expected Output:
+**Expected Output:**
 * convertToRoman(2) should return "II".
 * convertToRoman(3) should return "III".
 * convertToRoman(4) should return "IV".
