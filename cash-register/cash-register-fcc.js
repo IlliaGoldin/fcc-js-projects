@@ -1,5 +1,3 @@
-//Challenge description that outlines a problem this code solves is available here LINK
-
 //make life easier
 let log = console.log;
 
